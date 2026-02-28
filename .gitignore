@@ -1,4 +1,5 @@
-# Ignore everything in the "outputs" folder (heavy parquet and extracted files) 
+# Ignore everything in the "outputs" and data folders (heavy parquet and extracted files)
+data/*
 outputs/*
 # Ignore everything in the save and notes folders (not necessary for the project) 
 save/*
