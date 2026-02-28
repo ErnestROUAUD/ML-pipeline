@@ -1,3 +1,7 @@
+# Ignore everything in the "outputs" folder (heavy parquet and extracted files) 
+outputs/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
